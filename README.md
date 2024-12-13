@@ -13,11 +13,13 @@ This project utilizes financial data to perform comprehensive stock market analy
 - **Visualization**: Create graphical representations of stock performance and relationships.
 
 ## Dataset Description
-The dataset contains historical stock data downloaded from a reliable source. The key features include:
+The dataset contains historical stock data downloaded from a reliable so
+urce. The key features include:
 - **Date**: Trading date.
 - **Open, High, Low, Close**: Prices for each trading day.
 - **Volume**: Number of shares traded.
 - **Adjusted Close**: Price adjusted for splits and dividends.
+![Efficent Frontier](https://github.com/user-attachments/assets/2fc8a0d0-562f-48b8-871c-008b33941748)
 
 ## Tools and Technologies
 - **Google Colab**: For running Python code in an interactive environment.
@@ -47,10 +49,11 @@ The dataset contains historical stock data downloaded from a reliable source. Th
 Explore the live webpage showcasing this project:
 [Market Insight Analytics Webpage](https://seps-cyber.github.io/Market-Insight-Analytics/)
 
-Additional assets:
-- **Colab Notebook**: [Interactive Code](https://colab.research.google.com/drive/1fyOwuPK7vC9ulZQsn1m0EXKCbtZzR1K5?usp=sharing)
-- **Screenshots Folder**: [Screenshots](https://github.com/yourusername/market-insight-analytics/screenshots)
-- **Graphs and Visualizations**: [Graphs](https://github.com/yourusername/market-insight-analytics/graphs)
+
+- **Graphs and Visualizations**: 
+![Coalb](https://github.com/user-attachments/assets/d065ce1f-9137-4b0e-8dad-1a0b513f2aff)
+![Cumialtive return](https://github.com/user-attachments/assets/0f640961-834b-4c4c-a230-fe1280c86b63)
+
 
 ## Screenshots
 The following screenshots are included in the `/screenshots` folder to demonstrate the analysis and outcomes:
